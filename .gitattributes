@@ -1,0 +1,10 @@
+# The hive is a Linux/POSIX-first C11 library; every other wubu repo uses LF.
+# Without this, editors and checkouts on Windows re-introduce CRLF and every
+# diff shows whole-file rewrites.
+* text=auto eol=lf
+
+# Binary formats, never converted.
+*.png binary
+*.jpg binary
+*.a   binary
+*.o   binary
