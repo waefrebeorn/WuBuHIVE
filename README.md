@@ -34,6 +34,8 @@ Slermed from the wubuwizard/slermes HIVE (`wubu_hive.c`) and re-cut as a
 standalone library. In wubuwizard and slermes the hive replaces FIFO rings for
 exactly this reason; this is that code, cleaned up and gated.
 
+> **~WuBu~ AGI** — one system, many repositories. This is the **hive memory substrate**. The Body is [WuBuOS](https://github.com/waefrebeorn/WuBuOS), the Brain wubuwizard, the Compiler WuBuNOS.
+
 ## Modules
 
 | Module | What it is | Depends on |
